@@ -28,6 +28,7 @@ export function PureTaskList({ loading, tasks, onPinTask, onArchiveTask }) {
         {LoadingRow}
         {LoadingRow}
         {LoadingRow}
+        {LoadingRow}
       </div>
     );
   }
